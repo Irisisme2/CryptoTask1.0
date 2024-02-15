@@ -1,0 +1,31 @@
+[{
+  "name":["Test login functionality",false],
+  "CATEGORY":  "Testing", 
+  "date": "12 Jan 2021",
+  "BUDGET": 175  
+},
+{
+  "name":["Prepare materials for customer support department",true],
+  "CATEGORY": "Research", 
+  "date": "21 Feb 2021",
+  "BUDGET": 108  
+},
+{
+  "name":["Optimize server performance",true],
+  "CATEGORY":  "Development", 
+  "date": "13 Mar 2021",
+  "BUDGET": 2123  
+},
+{
+  "name":["Prepare presentation for client meeting" ,true],
+  "CATEGORY":  "Design", 
+  "date": "24 Jan 2021",
+  "BUDGET": 3105  
+},
+{
+  "name":[ "Plan company event",false],
+  "CATEGORY":  "Marketing", 
+  "date": "24 Oct 2022",
+  "BUDGET": 12.2  
+}
+]
